@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **THIS IS NOT THE OFFICIAL REPOSITORY!** Please go to https://github.com/walledai/walledeval to see the current running repository.
+
+
 # WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models
 
 [![paper](https://img.shields.io/badge/arxiv-2408.03837-b31b1b)](https://arxiv.org/abs/2408.03837)
